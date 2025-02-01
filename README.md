@@ -1,6 +1,6 @@
 # Liga Sauce Code Pro Nerd Font Complete Edition
 
-*Ligaturized* Source Code Pro with *Nerd Font* completly patched. Ready for download.
+*Ligaturized* Source Code Pro with *Nerd Font* completely patched. Ready for download.
 
 ## Font installation instructions
 
